@@ -1,6 +1,6 @@
 # UnrealEngineProject1
 
-This is my first project I undertook on Unreal Engine.
+It is an infinite runner game and this is my first project I undertook on Unreal Engine.
 
 This is by no means a new project, but learnt from a fabulous teacher Fahir on his AwesomeTuts channel.
 
